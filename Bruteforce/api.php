@@ -1,6 +1,4 @@
 <?php
-error_reporting(~E_ALL);
-
 $senha_encriptada = md5('admin'); // senha correta
 
 // Verifica se os dados foram enviados via POST

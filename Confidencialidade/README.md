@@ -1,0 +1,1 @@
+Nesse diretório, vai conter alguns exemplos básicos e práticos sobre criptografia, podendo usar a lógica em casos reais.

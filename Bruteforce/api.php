@@ -12,7 +12,7 @@ if (!isset($_POST['senha'])) {
 $senha_criptografada = md5($_POST['senha']);
 
 if ($senha_encriptada === $senha_criptografada) {
-    echo "senha correta";
+    echo "senha correta " . $_POST['senha'];
 } else {
     echo "senha incorreta";
 }

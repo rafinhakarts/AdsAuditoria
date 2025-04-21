@@ -1,4 +1,4 @@
-#Auditoria
+#Auditoria<br>
 Na minha visão, auditoria é um tema relativamente complexo e que exige atenção a diversos detalhes. Entendo que ela deve ser realizada em todas as camadas possíveis do objeto ou sistema que está sendo auditado, garantindo assim maior transparência, controle e segurança.
 
 Como ainda estou em processo de aprendizado e não possuo um conhecimento completo sobre o assunto, me baseei em informações fornecidas por inteligência artificial para destacar alguns pontos importantes que devem ser considerados em um projeto que passará por auditoria:

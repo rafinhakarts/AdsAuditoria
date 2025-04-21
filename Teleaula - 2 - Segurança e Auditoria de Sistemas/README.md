@@ -1,0 +1,1 @@
+Contém exemplos práticos que são impostos nos exercícios da teleaula 2 na prática do meu ponto de vista, usando PHP

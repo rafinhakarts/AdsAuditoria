@@ -1,8 +1,9 @@
 <?php  
+	if (session_status() == PHP_SESSION_NONE) {
+			session_start();
+		}
 error_reporting(0); // aqui iniciamos o script
-if (session_status() == PHP_SESSION_NONE) {
-    session_start();
-}
+
 // vamos chamar o arquivo include.php onde vai conter variaveis globais para nosso arquivo exemplo1.php  
 include_once('include.php');  
 
@@ -23,6 +24,7 @@ if (isset($_GET['cpf'])) {
 
     // descriptografar o cpf
     descriptografar($cpf_criptografado);  
+
 } else {
 	
 echo '<br><form action="" method="get">

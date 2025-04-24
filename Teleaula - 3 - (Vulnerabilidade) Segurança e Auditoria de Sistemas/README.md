@@ -1,0 +1,1 @@
+Aqui iremos demonstrar na prática algumas vulnerabilidades comuns em PHP, que podem acontecer em outras linguagens.

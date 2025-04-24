@@ -1,2 +1,3 @@
 No exemplo 1 iremos receber arquivos via form upload e demonstrar
-o que pode ocorrer quando não tem filtros na entrada de arquivos ou algo similar.
+o que pode ocorrer quando não tem filtros na entrada de arquivos ou algo similar. 
+Resumindo, caso não tenha filtros para recebimento de arquivos via upload ou randomizador de nomes de arquivos ou algo similar, o invasor pode acessar o arquivo shell que será interpretado pelo webserver e acabar dando vantagens para atacante executar tarefas no sistema operacional.
